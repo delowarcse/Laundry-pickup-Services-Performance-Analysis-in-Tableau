@@ -12,3 +12,8 @@ Identify which of the two sales regions is performing better (i.e., outperformer
 
 ## #2
 Identify which of the 10 new locations have the best potential for the company to invest more funds into marketing.
+
+## Instructions for Running "Performance Analysis for WeWashUSleep Data.twb"
+* First download Tableau from the following link https://www.tableau.com/products/trial
+* Then download 'Performance Analysis for WeWashUSleep Data.twb' and all databases
+* Open 'Performance Analysis for WeWashUSleep Data.twb' in Tableau and you will able to run the visualization.
